@@ -7,7 +7,7 @@ Welcome to my Google Search Logo Page Replica! This project demonstrates how to 
 
 ## Preview
 
-![App Screenshot](https://i.dailymail.co.uk/i/pix/2013/06/26/article-2348583-1A81DE2E000005DC-576_1024x615_large.jpg)
+![Google_search_preview](https://github.com/Saiyoogeswaran/HTML_AND_CSS/assets/113286663/c1804705-ffdc-40ea-8c09-f93a54521164)
 
 
 
